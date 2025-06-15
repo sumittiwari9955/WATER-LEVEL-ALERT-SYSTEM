@@ -7,6 +7,7 @@
 3. ZERO PCB
 4. LED”S
 5. BUZZER
+
 Water Level Alert System
 
 A Water Level Alert System is a simple yet effective electronic project designed to help avoid water overflow or water shortage in a water tank. This system can be implemented using a few low-cost electronic components, making it a helpful solution for conserving water and preventing waste.
